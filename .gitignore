@@ -1,0 +1,16 @@
+*.pyc
+pip-selfcheck.json
+tcl/*
+Scripts/*
+Lib/*
+Include/*
+man/*
+tmp/*
+*.log
+*.csv
+connections.py
+share/*
+bin/*
+include/*
+lib/*
+local/*
